@@ -67,3 +67,17 @@
 - Rails応用7→もうちょい悩むフェーズが続きそう。
 - Xでwantedlyの性格診断やってる方がちらほら居たんですが、MBTIと相関あるんだろうか？
   - RUNTEQ生で自分以外で同じ INFJ(提唱者) の方を今日までで3人認知しました！ 割合的には一番少ないタイプらしいですが、実は意外と居る？
+
+
+[記録] 4/25(木)_Day108_6h0m(798/1000)   
+[学習内容] アプリ開発7, Rails応用7途中 / TECH CHAT ROOM / 学習バディ  
+[コメント]  
+- アプリ開発7→Webデザイン良質見本(p86-136)
+- Rails応用7→あとは実装1つだけ！
+- 今日はtamaさんと[Wantedlyの「性格診断」](https://www.wantedly.com/companies/wantedly/post_articles/892287)をやってみました。
+  - 結果は [調和者](https://assessment.wantedly.com/personality/share/type/UGRv9Eo) だったので、[INFJ-T](https://www.16personalities.com/ja/infj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC) らしい性格だと思います。
+
+
+[以下、雑記・自己分析]  
+- 「今が幸せ」みたいな時が殆どなく、それゆえ「未来の幸せ・理想」を追い求めて努力する。けど、得られた現実とのギャップに裏切られることもしばしば。
+- チームの調和を重視するので「リーダーなどの突出した役割を担うこと」や「反対意見をいうこと」などは苦手。
