@@ -176,3 +176,18 @@
 [学習内容] その他  
 [コメント]
 - イベント（ミニアプリweek閉会式）
+
+
+[記録] 5/8(水)_Day121_10h19m(831/1000)  
+[学習内容] アプリ開発7, Rails応用8 / TECH CHAT ROOM / その他  
+[コメント] 
+- アプリ開発7 → [Webアプリ開発でのデザインポイント](https://school.runteq.jp/v2/mypage/helps/articles/design_guideline)
+  - 「文字について」まで。
+- Rails応用8 → 間が空いたので思い出すところから。
+  - ビュー周り実装。残りはロジック系の実装。
+- ミニアプリ触ったり、Xとtimesでブクマしてた投稿等まとめ
+- 世界一流エンジニアの思考法(p138-165)
+- [Property Parameter Argument の違い](https://qiita.com/kohki_takatama/items/4b99120da4f8e64cd791) についてやアプリ案についての壁打ちなど
+- paiza
+- イベント（私のカリキュラムの進め方LT）
+  - 登壇者の皆さん、個性のある発表でとても良かったです。
