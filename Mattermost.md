@@ -190,4 +190,6 @@
 - [Property Parameter Argument の違い](https://qiita.com/kohki_takatama/items/4b99120da4f8e64cd791) についてやアプリ案についての壁打ちなど
 - paiza
 - イベント（私のカリキュラムの進め方LT）
-  - 登壇者の皆さん、個性のある発表でとても良かったです。
+  - 登壇者の皆さん、個性のある発表でとても良かったです。熱のこもった発表ありがたい。
+
+
