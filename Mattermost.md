@@ -193,3 +193,22 @@
   - 登壇者の皆さん、個性のある発表でとても良かったです。熱のこもった発表ありがたい。
 
 
+[記録] 5/9(木)_Day122_7h0m(838/1000)  
+[学習内容] アプリ開発7, Rails応用8 / TECH CHAT ROOM / その他  
+[コメント] 
+- アプリ開発7
+  - [Webアプリ開発でのデザインポイント](https://school.runteq.jp/v2/mypage/helps/articles/design_guideline)
+  - [UI/UXガイドライン](https://www.figma.com/file/PDZzQzgN1xOkrGU7uLEdE8/Web%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E3%80%80UI%2FUX%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3?type=whiteboard&node-id=0%3A1&t=HTn1fvC1PZSi7kS8-1)
+    - 画面遷移図の作成まで
+- Rails応用8
+  - 進捗なし！流石に明日終わらせたい！
+- 世界一流エンジニアの思考法(p165-180)
+- AtCoder
+  - (A問題をtamaさんと挑戦！勉強になる書き方してた)
+- paiza
+- イベント（Youtube見ておしゃべりしようの会 in Discord）
+  - 動画のチョイスとmiroを使って感想書けるのが楽しかったです！
+- 学習バディ深夜組にも参加
+  - 話すことで思考が整理されたりするのでやっぱりいいですね。
+
+
