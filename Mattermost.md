@@ -212,3 +212,10 @@
   - 話すことで思考が整理されたりするのでやっぱりいいですね。
 
 
+[記録] 5/10(金)_Day123_8h10m(846/1000)  
+[学習内容] アプリ開発7, Rails応用8 / TECH CHAT ROOM / その他  
+[コメント] 
+- アプリ開発7 → [UI/UXガイドライン](https://www.figma.com/file/PDZzQzgN1xOkrGU7uLEdE8/Web%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E3%80%80UI%2FUX%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3?type=whiteboard&node-id=0%3A1&t=HTn1fvC1PZSi7kS8-1)
+- 世界一流エンジニアの思考法(p180-194)
+- イベント（「RUNTEQでの過ごし方」解説！）
+- 4ヶ月目振り返りnote途中
