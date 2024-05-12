@@ -214,8 +214,20 @@
 
 [記録] 5/10(金)_Day123_8h10m(846/1000)  
 [学習内容] アプリ開発7, Rails応用8 / TECH CHAT ROOM / その他  
-[コメント] 
+[コメント] *[レイさん](https://chat.runteq.jp/runteq/channels/times_54a_ida_reiya)のいちごスタンプ、4月から見かけてたけど何きっかけで最近流行ったんだろ？*
 - アプリ開発7 → [UI/UXガイドライン](https://www.figma.com/file/PDZzQzgN1xOkrGU7uLEdE8/Web%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E3%80%80UI%2FUX%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3?type=whiteboard&node-id=0%3A1&t=HTn1fvC1PZSi7kS8-1)
 - 世界一流エンジニアの思考法(p180-194)
 - イベント（「RUNTEQでの過ごし方」解説！）
 - 4ヶ月目振り返りnote途中
+
+
+[記録] 5/11(土)_Day124_8h35m(855/1000)  
+[学習内容] Rails応用8 / ~~TECH CHAT ROOM~~ / その他  
+[コメント] 
+- Rails応用8 → RSpecクリア！
+- 世界一流エンジニアの思考法(p194-218)
+  - 1日に一つのことに集中できるのは4時間。4時間過ぎて疲れたら、単に休むのではなく、違うことをするのが良い。
+- paiza
+- イベント（自分の強み発見ワークイベント）
+  - 自分の強みについて言語化することができて良かったです。「考える力」が強い方が多い印象でした！
+- [4ヶ月目振り返りnote](https://note.com/tripletsuper11/n/n5cc9d11e8dd8?sub_rt=share_pw) を書きました。
