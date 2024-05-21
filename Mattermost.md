@@ -325,8 +325,15 @@
 - paiza
 
 
-[記録] 5/20(月)_Day133_hm(9/1000)  
-[学習内容] Rails応用9 / その他  
+[記録] 5/20(月)_Day133_5h20m(906/1000)  
+[学習内容] Rails応用9 / TECH CHAT ROOM / その他  
+[コメント] 
+- Rails応用9復習
+- paiza
+- YouTubeライブ後から視聴
+
+[記録] 5/21(火)_Day134_hm(/1000)  
+[学習内容] Rails応用9 / TECH CHAT ROOM / その他  
 [コメント] 
 - Rails応用9（注：若干解答に関する内容入ります）
   - swiperの導入について
@@ -335,10 +342,14 @@
 
   - 複数画像の添付機能
     - モデルへの記述はOK
-    - 
+    - カスタムバリデータは、編集すべき箇所はヒントからわかるが、オブジェクトのクラス名を利用して条件分岐させることができなかった。```object.is_a?(ClassOrModule)```
 
   - 削除機能について
     - adminのみ削除可能にする設定はOK
-    - 
+    - strongパラメータの設定はOK
+    - destroyメソッドを別ファイルに書かず、独自メソッドで対応していた。
+      - またそれにより```authorize(@site)```ではなく```authorize(current_site)```としているが、これは```app/controllers/application_controller.rb```にて定義された「current_siteメソッドが返すオブジェクト」を指している。
 
 - paiza
+
+
