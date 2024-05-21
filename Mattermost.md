@@ -332,23 +332,29 @@
 - paiza
 - YouTubeライブ後から視聴
 
-[記録] 5/21(火)_Day134_hm(/1000)  
+[記録] 5/21(火)_Day134_6h29m(913/1000)  
 [学習内容] Rails応用9 / TECH CHAT ROOM / その他  
-[コメント] 
+[コメント] *復習しかしてないんだが？*
 - Rails応用9（注：若干解答に関する内容入ります）
   - swiperの導入について
-    - アセットパイプラインの設定はできていなかった。DockerfileにNode.jsに関する記述があり、それで事足りていると思っていた。
-    - package.jsonの記述はOK
+    - [x] package.jsonの記述はOK
+    - [ ] アセットパイプラインの設定はできていなかった。DockerfileにNode.jsに関する記述があり、それで事足りていると思っていた。
 
-  - 複数画像の添付機能
-    - モデルへの記述はOK
-    - カスタムバリデータは、編集すべき箇所はヒントからわかるが、オブジェクトのクラス名を利用して条件分岐させることができなかった。```object.is_a?(ClassOrModule)```
+  - トップページの表示について(ここが一番できていなかった)
+    - [ ] swiperの機能、bootstrapのjumbotron(結局使わない)、url_forメソッドを用いて、ちょっと書くだけと思っていたが全然違った。ゴリゴリのcss必要。
+    - [ ] swiperの初期化に関してはjQueryの関数が使われてたり、公式ドキュメントだけでは実装不可能だと感じたので、解答を見て正解でした。💢
+
+  - 複数画像の添付機能について
+    - [x] モデルへの記述はOK
+    - [ ] カスタムバリデータは、編集すべき箇所はヒントからわかるが、オブジェクトのクラス名を利用して条件分岐させることができなかった。```object.is_a?(ClassOrModule)```
 
   - 削除機能について
-    - adminのみ削除可能にする設定はOK
-    - strongパラメータの設定はOK
-    - destroyメソッドを別ファイルに書かず、独自メソッドで対応していた。
-      - またそれにより```authorize(@site)```ではなく```authorize(current_site)```としているが、これは```app/controllers/application_controller.rb```にて定義された「current_siteメソッドが返すオブジェクト」を指している。
+    - [x] adminのみ削除可能にする設定はOK
+    - [x] strongパラメータの設定はOK
+    - [ ] destroyメソッドを別ファイルに書かず、独自メソッドで対応していた。
+      - またそれにより```authorize(@site)```ではなく```authorize(current_site)```となっているが、これは```app/controllers/application_controller.rb```にて定義された「current_siteメソッドが返すオブジェクト」を指している。
+    - [ ] 削除ボタン内のロジックに関しては、```app/decorators/site_decorator.rb```に独自のメソッドを用意していた。
+      - main_imageが複数であることから```app/views/admin/sites/edit.html.slim```にロジックを直書きした方が楽。
 
 - paiza
 
