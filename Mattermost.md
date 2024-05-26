@@ -407,16 +407,11 @@
   - 利用規約・プライバシーポリシー、SEO対策などなど、重要そうなことが沢山出てきたけど本当に完璧に出来るんだろうか💧
 - ActiveRecord演習
 - paiza
-- TECH CHAT ROOM 
-  - 5/26(日)の[技術書典](https://techbookfest.org/)にtamaさんと行くことになりました。
-  - アニメの話になり、めちゃくちゃ話し込んでしまいました💦 好きな作品を聞くと、その人の考え方とかちょっと分かった感じがして面白い。
-- RUNTEQ動画チェック[現役が語る「エンジニアの転職活動」のイメージと現実のギャップ4選](https://youtu.be/-TOnNXmr6Uc?si=sIedep1BA0cp54BY)
+- RUNTEQ動画チェック([現役が語る「エンジニアの転職活動」のイメージと現実のギャップ4選](https://youtu.be/-TOnNXmr6Uc?si=sIedep1BA0cp54BY))
   1. 「資格をとると有利になる」という訳ではない。
   2. 「就活対策はする必要がない」というのは違う。
   3. 「長く学習するより、早く就職して実務経験を積んだ方がいい」は危ない。
   4. 「エンジニアには理系がなるもので文系は厳しい」というのはない。
-     - 4つ目は動画でも触れられている通り、「情報系でプログラミングやってました」って人以外、文理で差はないと思います。
-     - 「数学が得意だからといってエンジニアで活躍できる訳ではない」というのは全く同意で、使う頭も全く別だと感じてます。強いて言うなら英語が近いと思う。
 
 
 [記録] 5/26(日)_Day139_hm(/1000)  
@@ -430,3 +425,4 @@
   - [コードレビューで学ぶ Ruby on Rails 第二版](https://techbookfest.org/product/50CLAnEpRNhFNKzgq1aK78?productVariantID=gmDHaevdhz4T3T4eiGjWHe)
     - コードレビュー事例から「こう書いた方がいいいよね」みたいなあるあるを紹介してくれてる。
   - あとは言語が違うけど [物理人の戯れ](https://techbookfest.org/product/cMuwYyCNz79WZrbnzY1QdE?productVariantID=aT0JMEKWfq9upPE2hWLyRY) や [量子ガール グローバーのアルゴリズム](https://techbookfest.org/product/5669587462914048?productVariantID=gFYUYEUv1iNXSy0h7LLRKY) など趣味に寄った本も買った。
+- 技術書典の後に
