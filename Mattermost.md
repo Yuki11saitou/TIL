@@ -417,3 +417,16 @@
   4. 「エンジニアには理系がなるもので文系は厳しい」というのはない。
      - 4つ目は動画でも触れられている通り、「情報系でプログラミングやってました」って人以外、文理で差はないと思います。
      - 「数学が得意だからといってエンジニアで活躍できる訳ではない」というのは全く同意で、使う頭も全く別だと感じてます。強いて言うなら英語が近いと思う。
+
+
+[記録] 5/26(日)_Day139_hm(/1000)  
+[学習内容] ActiveRecord演習 / ~~TECH CHAT ROOM~~ / その他  
+[コメント] 
+- ActiveRecord演習
+- paiza
+- 5/26(日)の[技術書典](https://techbookfest.org/)に行ってきました。声を掛けてくれたtamaさんには感謝🙇‍♂️ ネット購入も出来るみたいです。
+  - [空飛ぶエンジニア用語辞典](https://techbookfest.org/product/5196678216810496?productVariantID=6235152747331584)
+    - 「SEとは？Web系とSIerの違い」「CI/CDって何」など 何回か調べても良くわかってないこと が書かれており購入。
+  - [コードレビューで学ぶ Ruby on Rails 第二版](https://techbookfest.org/product/50CLAnEpRNhFNKzgq1aK78?productVariantID=gmDHaevdhz4T3T4eiGjWHe)
+    - コードレビュー事例から「こう書いた方がいいいよね」みたいなあるあるを紹介してくれてる。
+  - あとは言語が違うけど [物理人の戯れ](https://techbookfest.org/product/cMuwYyCNz79WZrbnzY1QdE?productVariantID=aT0JMEKWfq9upPE2hWLyRY) や [量子ガール グローバーのアルゴリズム](https://techbookfest.org/product/5669587462914048?productVariantID=gFYUYEUv1iNXSy0h7LLRKY) など趣味に寄った本も買った。
