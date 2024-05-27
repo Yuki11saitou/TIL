@@ -416,13 +416,14 @@
 
 [記録] 5/26(日)_Day139_1h46m(935/1000)  
 [学習内容] ActiveRecord演習 / ~~TECH CHAT ROOM~~ / その他  
-[コメント] 
+[コメント] *昼夜逆転してるので早めにねんねします。そんで、いつの間にか いちご師匠 になっていた :teisyousya_infj:*
 - ActiveRecord演習
 - paiza
-- 5/26(日)の[技術書典](https://techbookfest.org/)に行ってきました。声を掛けてくれたtamaさんには感謝🙇‍♂️ ネット購入も出来るみたいです。
-  - [空飛ぶエンジニア用語辞典](https://techbookfest.org/product/5196678216810496?productVariantID=6235152747331584)
+- 5/26(日)の[**技術書典**](https://techbookfest.org/)に行ってきました。声を掛けてくれたtamaさんには感謝🙇‍♂️ ネット購入も出来るみたいです。
+  - [**空飛ぶエンジニア用語辞典**](https://techbookfest.org/product/5196678216810496?productVariantID=6235152747331584)
     - 「SEとは？Web系とSIerの違い」「CI/CDって何」など 何回か調べても良くわかってないこと が書かれており購入。
-  - [コードレビューで学ぶ Ruby on Rails 第二版](https://techbookfest.org/product/50CLAnEpRNhFNKzgq1aK78?productVariantID=gmDHaevdhz4T3T4eiGjWHe)
+  - [**コードレビューで学ぶ Ruby on Rails 第二版**](https://techbookfest.org/product/50CLAnEpRNhFNKzgq1aK78?productVariantID=gmDHaevdhz4T3T4eiGjWHe)
     - コードレビュー事例から「こう書いた方がいいいよね」みたいなあるあるを紹介してくれてる。
   - あとは言語が違うけど [物理人の戯れ](https://techbookfest.org/product/cMuwYyCNz79WZrbnzY1QdE?productVariantID=aT0JMEKWfq9upPE2hWLyRY) や [量子ガール グローバーのアルゴリズム](https://techbookfest.org/product/5669587462914048?productVariantID=gFYUYEUv1iNXSy0h7LLRKY) など趣味に寄った本も買った。
-- 技術書典の後に
+    - 出展者ともお話しできて、「自分の"好き"をITの力で具現化するのは良いな〜」と思えました🔥
+- 技術書典の後に「せっかく池袋来たんだから」と思い立ってアニメイト行って3時間くらい溶かしてしまった。幸せな時間でしたが反省💧
