@@ -427,3 +427,11 @@
   - あとは言語が違うけど [物理人の戯れ](https://techbookfest.org/product/cMuwYyCNz79WZrbnzY1QdE?productVariantID=aT0JMEKWfq9upPE2hWLyRY) や [量子ガール グローバーのアルゴリズム](https://techbookfest.org/product/5669587462914048?productVariantID=gFYUYEUv1iNXSy0h7LLRKY) など趣味に寄った本も買った。
     - 出展者ともお話しできて、「自分の"好き"をITの力で具現化するのは良いな〜」と思えました🔥
 - 技術書典の後に「せっかく池袋来たんだから」と思い立ってアニメイト行って3時間くらい溶かしてしまった。幸せな時間でしたが反省💧
+
+
+[記録] 5/27(月)_Day140_3h0m(938/1000)  
+[学習内容] ~~ActiveRecord演習~~ / TECH CHAT ROOM / その他  
+[コメント] とにかくカリキュラムも進めます。
+- アプリ案の壁打ち
+  - やっぱり人とお話しすると自分とは違った視点からアドバイスを頂けるのでありがたいです！
+- paiza
