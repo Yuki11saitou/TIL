@@ -440,6 +440,22 @@
 [記録] 5/28(火)_Day141_5h26m(944/1000)  
 [学習内容] ActiveRecord演習 / ~~TECH CHAT ROOM~~ / その他  
 [コメント] 
-- ActiveRecord演習
-  - ここにきて、progate時代にやった（という記憶だけはある）SQLの知識を再び使っています。中級で既に四苦八苦ですが💧
 - paiza
+- ActiveRecord演習
+  - 中級で既に四苦八苦💧ここにきてprogate時代にやったSQLの知識を再び使っています。
+  - SQL実行順、覚えとかないと面倒だなと思ったので覚え方を考えてみた（でも脳のリソースは極限まで削りたい）。文法的には冠詞とか分詞使いたいけど、覚え易さ優先で。
+```
+面白いJKが緑の帽子をかぶって奇妙な歌を歌ってる
+"Funny JK Wears Green Sun Hat, Sings Odd Lyrics”
+```
+```FROM → JOIN → WHERE → GROUP BY → SUMなどの関数 → HAVING → SELECT → ORDER BY → LIMIT```
+
+[![Image from Gyazo](https://i.gyazo.com/d10bc1ab726e038820b5d1282b04808c.jpg)](https://gyazo.com/d10bc1ab726e038820b5d1282b04808c)
+
+
+[記録] 5/29(水)_Day142_hm(/1000)  
+[学習内容] ActiveRecord演習 / ~~TECH CHAT ROOM~~ / その他  
+[コメント] 
+- paiza
+- ActiveRecord演習
+
