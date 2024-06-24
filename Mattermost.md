@@ -805,9 +805,21 @@ timesでもXでも、まだ「作りました」報告もできていないし�
 [![Image from Gyazo](https://i.gyazo.com/3f59ce498765eacd13a7966d479173bf.png)](https://gyazo.com/3f59ce498765eacd13a7966d479173bf)
 
 
-[記録] 6/21(金)_Day165_4h36m(1148/1000)  
+[記録] 6/22(土)_Day166_4h31m(1154/1000)  
 [学習内容] その他  
 [コメント] 
 - TECH CHAT ROOM→休み
 - paiza
-- イベント（DOM操作）
+- Udemy
+- 自己分析シート記入
+- ミニアプリ触ったり
+
+
+[記録] 6/22(土)_Day167_4h31m(1154/1000)  
+[学習内容] その他  
+[コメント] 
+- TECH CHAT ROOM→休み
+- paiza
+- Udemy
+- 自己分析シート記入
+- ミニアプリ触ったり
