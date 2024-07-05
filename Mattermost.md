@@ -970,4 +970,10 @@ timesでもXでも、まだ「作りました」報告もできていないし�
 [学習内容] その他  
 [コメント]   
 - TECH CHAT ROOM
-- 
+  - アプリ案壁打ちなど
+- paiza
+- Udemy : docker(11/97)
+- README
+  - アプリ案を変更し、README提出
+
+
