@@ -996,13 +996,15 @@ timesでもXでも、まだ「作りました」報告もできていないし�
 - TECH CHAT ROOM
   - 57期の方とお話し
 - 6ヶ月目振り返りnote途中
+---
 
-
-[記録] 7/7(日)_Day181_hm(/1000)  
+[記録] 7/7(日)_Day181_6h7m(1253/1000)  
 [学習内容] 卒業制作 / その他  
 [コメント]   
 - 画面遷移図
 - paiza
-- Udemy : docker(11/97)
-- 6ヶ月目振り返りnote途中
-
+- Udemy : docker(17/97)
+- [6ヶ月目振り返りnote](https://note.com/tripletsuper11/n/n049a85d1d020?sub_rt=share_pb)
+- YouTube確認
+  - [エンジニア1年目で感じた「実務で役に立った」書籍７選](https://youtu.be/rb0BxBYNGu0?si=yMDSza3BCvVwKoZx)
+  - [未経験からエンジニア転職を目指すために必読の書籍20選](https://youtu.be/HmV6HmtHblE?si=LHlU8Zrhz19ewY1J)
