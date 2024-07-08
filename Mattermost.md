@@ -996,15 +996,26 @@ timesでもXでも、まだ「作りました」報告もできていないし�
 - TECH CHAT ROOM
   - 57期の方とお話し
 - 6ヶ月目振り返りnote途中
+- YouTube確認
+  - [エンジニア1年目で感じた「実務で役に立った」書籍７選](https://youtu.be/rb0BxBYNGu0?si=yMDSza3BCvVwKoZx)
+  - [未経験からエンジニア転職を目指すために必読の書籍20選](https://youtu.be/HmV6HmtHblE?si=LHlU8Zrhz19ewY1J)
 ---
 
 [記録] 7/7(日)_Day181_6h7m(1253/1000)  
 [学習内容] 卒業制作 / その他  
-[コメント]   
+[コメント] この人はこのスタンプ！みたいなのがあって良いですね！僕も:yuki: :yuki_53a: とありますが、主張が強いので自分のMBTIである 提唱者 :teisyousya_infj: を多用してます！
 - 画面遷移図
 - paiza
 - Udemy : docker(17/97)
-- [6ヶ月目振り返りnote](https://note.com/tripletsuper11/n/n049a85d1d020?sub_rt=share_pb)
-- YouTube確認
-  - [エンジニア1年目で感じた「実務で役に立った」書籍７選](https://youtu.be/rb0BxBYNGu0?si=yMDSza3BCvVwKoZx)
-  - [未経験からエンジニア転職を目指すために必読の書籍20選](https://youtu.be/HmV6HmtHblE?si=LHlU8Zrhz19ewY1J)
+- [6ヶ月目振り返りnoteを書きました🌻](https://note.com/tripletsuper11/n/n049a85d1d020?sub_rt=share_pb)
+
+
+[記録] 7/8(月)_Day182_hm(/1000)  
+[学習内容] 卒業制作 / その他  
+[コメント]   
+- README
+  - LGTMが来ました🍀
+- 画面遷移図
+- paiza
+- Udemy : docker(17/97)
+
