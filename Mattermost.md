@@ -1058,3 +1058,11 @@ timesでもXでも、まだ「作りました」報告もできていないし�
 - Udemy : docker(27/97)
 - 第7回HR 
 - 今日見たら [Letters Tube](https://letters-tube.vercel.app/pf) に私のミニアプリが登録されておりました。ありがたや🙇‍♂️
+
+
+[記録] 7/12(金)_Day186_hm(/1000)  
+[学習内容] 卒業制作 / その他  
+[コメント]   
+- 画面遷移図
+- paiza
+- Udemy : docker(27/97)
