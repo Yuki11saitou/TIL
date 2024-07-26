@@ -1210,3 +1210,4 @@ https://zenn.dev/no215/articles/ff4f1670c080e4
 [学習内容] 卒業制作 / その他  
 [コメント]   
 - issue
+- commitメッセージ、ブランチ命名についてルールを決めた。
