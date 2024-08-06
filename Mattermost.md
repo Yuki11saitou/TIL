@@ -1302,3 +1302,9 @@ https://zenn.dev/no215/articles/ff4f1670c080e4
   - Google maps API調査
 
 
+[記録] 8/5(月)_Day210_1h36m(1496/1000)  
+[学習内容] 卒業制作 / その他  
+[コメント]   
+- 開発
+  - Google maps API調査
+
