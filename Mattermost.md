@@ -1323,8 +1323,17 @@ https://zenn.dev/no215/articles/ff4f1670c080e4
   - Google maps API調査
 
 
-[記録] 8/8(木)_Day213_hm(15/1000)  
+[記録] 8/8(木)_Day213_11h32m(1520/1000)  
 [学習内容] 卒業制作 / その他  
 [コメント]   
 - 開発
   - Google maps API導入
+  - APIを使用して現在地取得・Mapの表示
+
+
+[記録] 8/9(金)_Day214_hm(15/1000)  
+[学習内容] 卒業制作 / その他  
+[コメント]   
+- 第8回HR(自己PR文) 
+- 開発
+  - Google maps API
